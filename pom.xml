@@ -30,8 +30,8 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/roher-dev/lobo01.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/roher-dev/lobo01.git</developerConnection>
-		<url>http://github.com/roher-dev/lobo01.git</url>
+		<developerConnection>scm:git:ssh://git@github.com:roher-dev/lobo01.git</developerConnection>
+		<url>https://github.com/roher-dev/lobo01.git</url>
 	  	<tag>HEAD</tag>
   	</scm>
  
