@@ -1,0 +1,14 @@
+massive-mailer-api/.classpath
+massive-mailer-api/.project
+massive-mailer-api/.settings/
+massive-mailer-api/target/
+massive-mailer-domain/.classpath
+massive-mailer-domain/.project
+massive-mailer-domain/.settings/
+massive-mailer-domain/target/
+massive-mailer-front/.classpath
+massive-mailer-front/.project
+massive-mailer-front/.settings/
+massive-mailer-front/src/
+massive-mailer-front/target/
+
