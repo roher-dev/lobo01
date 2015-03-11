@@ -1,0 +1,13 @@
+email-sender-api/.classpath
+email-sender-api/.project
+email-sender-api/.settings/
+email-sender-api/target/
+email-sender-domain/.classpath
+email-sender-domain/.project
+email-sender-domain/.settings/
+email-sender-domain/target/
+email-sender-front/.classpath
+email-sender-front/.project
+email-sender-front/.settings/
+email-sender-front/src/
+email-sender-front/target/
